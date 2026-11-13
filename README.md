@@ -2,7 +2,7 @@
 
 A machine learning web app that estimates a student's stress risk level (**Low / Medium / High**) from 20 questions about mental health, study life, environment and social support, and explains **why** it gave that result.
 
-**Live app:** [ADD YOUR STREAMLIT LINK HERE]
+**Live app:** https://studysense-stress-predictor.streamlit.app/
 
 > **This is a risk indicator, not a medical diagnosis.** It is a learning project built on a public dataset that appears to be synthetic.
 
