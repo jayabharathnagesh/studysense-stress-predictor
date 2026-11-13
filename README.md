@@ -6,7 +6,6 @@ A machine learning web app that estimates a student's stress risk level (**Low /
 
 > **This is a risk indicator, not a medical diagnosis.** It is a learning project built on a public dataset that appears to be synthetic.
 
-![StudySense screenshot](screenshot.png)
 
 ## What it does
 
